@@ -1,0 +1,4 @@
+name: ServerLog-Beta
+version: 1.0.0
+main: org.serversmc.serverlog.core.Main
+author: ServersMC, DennisLysenko
